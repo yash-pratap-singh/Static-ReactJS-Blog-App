@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore aspernatur, dolorum iure qui iste eum."
+    },
+    {
+      "id": 2,
+      "title": "Second Post Updated 2.0",
+      "datetime": "June 13, 2022 12:02:04 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore aspernatur, dolorum iure qui iste eum."
+    }
+  ]
+}
